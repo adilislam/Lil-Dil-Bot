@@ -3,7 +3,7 @@ import discord
 import random
 import nacl
 import time
-TOKEN = 'NzkyNTA5MjQ2MjUwOTQyNDY2.X-evwA.9xikFap2neJ9nIvBB-RCWclEOZY'
+TOKEN = hidden
 # GUILD = 'Social Distancing Squad'
 GUILD = 'Minecraftingoons'
 
